@@ -1,4 +1,4 @@
-# N-Dimensional-tictactoe
+# N-Dimensional TicTacToe game
 
 ## About
 This is a N-Dimensional game of TicTacToe for two players.
