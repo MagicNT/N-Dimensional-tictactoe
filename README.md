@@ -11,4 +11,5 @@ This is a N-Dimensional game of TicTacToe for two players.
 
 `java N_Dimensional_TicTacToe.java`
 
-![nttt](https://user-images.githubusercontent.com/86275885/123091057-e6a63580-d3f6-11eb-993d-6d07a04771ea.png)
+![nttt](https://user-images.githubusercontent.com/86275885/123093105-400f6400-d3f9-11eb-9534-9dd3f28f68dd.png)
+
